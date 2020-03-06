@@ -6,7 +6,7 @@ Repository containing the source code of LOSDC's website built on [GatsbyJS](htt
 
 Live at [losdc.netlify.com](https://losdc.netlify.com).🚀
 
-<p align="center"><img src="osdc.gif"></p>
+<p align="center"><img src="losdc.gif"></p>
 
 ## Setup
 
