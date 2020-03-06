@@ -22,7 +22,4 @@ Live at [osdc.netlify.com](https://osdc.netlify.com).🚀
 - Feel free to open an issue or recommend any changes which you want to see in the website.
 - Make sure one issue recommends one logical change.
 
-## Team
 
-- [@saranshbarua](https://github.com/saranshbarua) - **Saransh Barua**, Maintainer
-- [@ryzokuken](https://github.com/ryzokuken) - **Ujjwal Sharma**
